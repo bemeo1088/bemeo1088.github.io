@@ -1,8 +1,10 @@
 p {
   color: blue;
 }
-#contact {
-  text-align:center;
+.contact {
+  display: flex;
+  justify-content:center;
+  align-items:center;
 }
 
 h2 {
