@@ -11,4 +11,5 @@ h2,h3,h4
 
 body {
 text-color: #2e69a3;
-background-image: rgba(212,228,239,1);}
+background-image: rgba(212,228,239,1);
+border: 1px solid blue;}
