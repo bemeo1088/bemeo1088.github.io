@@ -6,7 +6,8 @@ p {
 }
 
 h2 {
-text-decoration: underline;}
+text-decoration: underline;
+float: center;}
 
 h2,h3,h4
 {font-weight: bold;}
