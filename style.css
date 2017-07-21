@@ -1,13 +1,13 @@
 p {
   color: blue;
 }
-#header {
-
+#contact {
+  text-align:center;
 }
 
 h2 {
 text-decoration: underline;
-float: center;}
+text-align:center;}
 
 h2,h3,h4
 {font-weight: bold;}
