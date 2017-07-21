@@ -1,6 +1,3 @@
-p {
-  color: blue;
-}
 .contact {
  text-align:center;
 }
@@ -13,4 +10,5 @@ h2,h3,h4
 {font-weight: bold;}
 
 body {
-text-color: #2e69a3;}
+text-color: #2e69a3;
+background-image: rgba(212,228,239,1);}
